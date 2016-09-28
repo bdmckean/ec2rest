@@ -12,10 +12,13 @@
 '''
 # TODO:
 # 1) Unit test framework
+#   create instance
+#   get instance stats
+#   delete instance
+#   verify isntance deleted
 # 2) more options on input
 # -- region, commands
 # 3) pass through on unrecognized message with warning
-# 4) 
 #
 # imports
 import os
